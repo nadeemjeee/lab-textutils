@@ -6,6 +6,8 @@ A small Python library for text processing. Provides utilities for:
 - **password** — evaluating password strength
 - **stats** — analysing basic text statistics
 
+![CI](https://github.com/nadeemjeee/lab-textutils/actions/workflows/ci.yml/badge.svg)
+
 This project has tests but no CI pipeline. That's your job.
 
 ---
